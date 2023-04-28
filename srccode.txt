@@ -10,4 +10,12 @@ void method3(){
 //
 Block of Statments
 }
+void method4(){
+//
+Block of Statments
+}
+void method2(){
+//
+Block of Statments
+}
 
