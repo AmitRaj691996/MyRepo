@@ -18,4 +18,8 @@ void method2(){
 //
 Block of Statments
 }
+void method6(){
+//
+Block of Statments
+}
 
