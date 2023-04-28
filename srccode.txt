@@ -2,3 +2,7 @@ void method1(){
 //
 Block of Statements 
 }
+void method2(){
+//
+Block of Statments
+}
